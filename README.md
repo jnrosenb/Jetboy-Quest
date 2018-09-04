@@ -4,5 +4,3 @@
 
 [Link to play game](https://www.scirra.com/arcade/action-games/jetboy-quest-14529
  "Scirra Arcade")
-
-()
